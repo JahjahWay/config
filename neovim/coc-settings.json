@@ -1,0 +1,16 @@
+{
+	"suggest.noselect": false,
+	"explorer.width": 20,
+	"explorer.sources": [
+		{
+			"name": "buffer",
+			"expand": false
+		},
+		{
+			"name": "file",
+			"expand": true
+		}
+	],
+	"explorer.file.column.indent.indentLine": true,
+	"explorer.icon.enableNerdfont": true
+}
